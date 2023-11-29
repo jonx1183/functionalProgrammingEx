@@ -1,0 +1,14 @@
+C:\Users\Gamer\C#\funtionalEx\obj\Debug\net7.0\funtionalEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\C#\funtionalEx\obj\Debug\net7.0\funtionalEx.AssemblyInfoInputs.cache
+C:\Users\Gamer\C#\funtionalEx\obj\Debug\net7.0\funtionalEx.AssemblyInfo.cs
+C:\Users\Gamer\C#\funtionalEx\obj\Debug\net7.0\funtionalEx.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\C#\funtionalEx\bin\Debug\net7.0\funtionalEx.exe
+C:\Users\Gamer\C#\funtionalEx\bin\Debug\net7.0\funtionalEx.deps.json
+C:\Users\Gamer\C#\funtionalEx\bin\Debug\net7.0\funtionalEx.runtimeconfig.json
+C:\Users\Gamer\C#\funtionalEx\bin\Debug\net7.0\funtionalEx.dll
+C:\Users\Gamer\C#\funtionalEx\bin\Debug\net7.0\funtionalEx.pdb
+C:\Users\Gamer\C#\funtionalEx\obj\Debug\net7.0\funtionalEx.dll
+C:\Users\Gamer\C#\funtionalEx\obj\Debug\net7.0\refint\funtionalEx.dll
+C:\Users\Gamer\C#\funtionalEx\obj\Debug\net7.0\funtionalEx.pdb
+C:\Users\Gamer\C#\funtionalEx\obj\Debug\net7.0\funtionalEx.genruntimeconfig.cache
+C:\Users\Gamer\C#\funtionalEx\obj\Debug\net7.0\ref\funtionalEx.dll
